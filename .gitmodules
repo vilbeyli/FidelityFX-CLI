@@ -1,8 +1,8 @@
 [submodule "Shaders/FidelityFX-CAS"]
 	path = Shaders/FidelityFX-CAS
-	url = ../FidelityFX-CAS
+	url = ../../GPUOpen-Effects/FidelityFX-CAS
 	branch = master
 [submodule "Shaders/FidelityFX-FSR"]
 	path = Shaders/FidelityFX-FSR
-	url = ../FidelityFX-FSR
+	url = ../../GPUOpen-Effects/FidelityFX-FSR
 	branch = development
